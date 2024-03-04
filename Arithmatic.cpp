@@ -31,6 +31,7 @@ int main()
     int x = add();
     int y = sub();
     int z = mul();
+    int k=0;
     cout << x << endl;
     return 0;
 }
